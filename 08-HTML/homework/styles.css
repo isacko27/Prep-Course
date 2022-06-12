@@ -29,6 +29,9 @@ body{
     border: 10px solid #05585D;
     color: white;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
 }
 #spanId{
     font-size: 18px;
